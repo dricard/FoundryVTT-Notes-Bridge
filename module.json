@@ -1,11 +1,11 @@
 {
-  "name": "module",
-  "title": "New Module",
-  "description": "",
+  "name": "FoundryVTT-notes-Bridge",
+  "title": "Notes Bridge",
+  "description": "A module to bridge text notes to journal entries.",
   "version": "0.0.1",
   "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "0.7.2",
-  "author": "Cody Swendrowski <cody@swendrowski.us>",
+  "compatibleCoreVersion": "0.7.7",
+  "author": "Denis Ricard <d.ricard@me.com>",
   "dependencies": [
 
   ],
@@ -25,7 +25,7 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "https://github.com/cswendrowski/FoundryVTT-module",
-  "manifest": "https://github.com/cswendrowski/FoundryVTT-module/releases/download/latest/module.json",
-  "download": "https://github.com/cswendrowski/FoundryVTT-module/releases/download/0.0.1/module.zip"
+  "url": "https://github.com/dricard/FoundryVTT-Notes-Bridge.git",
+  "manifest": "https://github.com/dricard/FoundryVTT-Notes-Bridge.git/releases/download/latest/module.json",
+  "download": "https://github.com/dricard/FoundryVTT-Notes-Bridge.git/releases/download/0.0.1/module.zip"
 }
